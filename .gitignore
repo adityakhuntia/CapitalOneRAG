@@ -1,0 +1,13 @@
+# Python venv
+.venv/
+__pycache__/
+*.pyc
+
+# HuggingFace models
+hf_cache/
+*.safetensors
+
+# PyTorch binaries
+*.dylib
+*.pt
+*.bin
